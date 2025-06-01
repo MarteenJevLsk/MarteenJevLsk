@@ -12,7 +12,7 @@ Sou um calouro de Ciência da Computação, na maioria das vezes estudando por c
 [![Perfil Linkedln](https://img.shields.io/badge/Perfil%20Linkedln-432959?style=for-the-badge)](https://www.linkedin.com/in/m%C3%A1rcio-reno-1a2424369/)
 [![Página do Github](https://img.shields.io/badge/Página%20do%20Github-432959?style=for-the-badge)](https://www.linkedin.com/in/m%C3%A1rcio-reno-1a2424369/)
 [![Steam](https://img.shields.io/badge/Steam-0d1117?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/_jeweljev/)
-[![Moddb](https://img.shields.io/badge/moddb-a8131f?style=for-the-badge)](https://www.linkedin.com/in/m%C3%A1rcio-reno-1a2424369/)
+[![Moddb](https://img.shields.io/badge/moddb-a8131f?style=for-the-badge)](https://www.moddb.com/members/jevlsk)
 
 ###  • Discord •
 [![Discord Presence](https://lanyard.cnrad.dev/api/340608909230211074?bg=2B2B2B&borderRadius=&idleMessage=The%20road%20to%20Dorgenville%20is%20arduous.&ignoreAppId=340608909230211074&theme=dark)](https://discord.com/users/340608909230211074)
