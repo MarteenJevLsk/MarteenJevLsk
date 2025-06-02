@@ -1,54 +1,98 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/be/82/9b/be829bcfc8fef59967c83a7e2201034c.jpg" width="128" heigth="128" style="border-radius: 50%"><br>
+  <img src="https://i.pinimg.com/736x/be/82/9b/be829bcfc8fef59967c83a7e2201034c.jpg" width="128" heigth="128" style="border-radius: 60%;"><br>
  </div>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=MarteenJevLsk&label=Profile%20views&color=blueviolet&style=flat" alt="JevMarteen" /> </p>
 
 
-# 👋 __ $ 𝚋𝙴𝙼 𝚟𝙸𝙽𝙳𝙾
-## Olá, seja bem vindo ao meu perfil no github.
-
-Sou um calouro de Ciência da Computação, na maioria das vezes estudando por conta própria e aprendendo coisas novas.
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+    Seja bem vindo.
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=900&size=12&duration=3000&pause=1000&color=97a4e2&center=true&width=410&height=45&lines=A+gente+percebe+que+a+%C3%BAnica+coisa+que+se+perde%2C+%C3%A9+tempo+mesmo.;Seu+valor+n%C3%A3o+depende+da+opni%C3%A3o+de+ningu%C3%A9m.;Um+peda%C3%A7o+de+mim+se+vai%2C+e+com+ele%2C+meus+erros.">
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
 [![Perfil DIO](https://img.shields.io/badge/JetForkel-432959?style=for-the-badge)](https://jetforkel.com)
-[![Perfil Linkedln](https://img.shields.io/badge/Perfil%20Linkedln-432959?style=for-the-badge)](https://www.linkedin.com/in/m%C3%A1rcio-reno-1a2424369/)
-[![Página do Github](https://img.shields.io/badge/Página%20do%20Github-432959?style=for-the-badge)](https://www.linkedin.com/in/m%C3%A1rcio-reno-1a2424369/)
+[![Perfil Linkedin](https://img.shields.io/badge/Perfil%20Linkedin-432959?style=for-the-badge)](https://www.linkedin.com/in/m%C3%A1rcio-reno-1a2424369/)
+[![Página do Github](https://img.shields.io/badge/Página%20do%20Github-432959?style=for-the-badge)](https://marteenjevlsk.github.io/)
 [![Steam](https://img.shields.io/badge/Steam-0d1117?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/_jeweljev/)
 [![Moddb](https://img.shields.io/badge/moddb-a8131f?style=for-the-badge)](https://www.moddb.com/members/jevlsk)
 
-###  • Discord •
-[![Discord Presence](https://lanyard.cnrad.dev/api/340608909230211074?bg=2B2B2B&borderRadius=&idleMessage=The%20road%20to%20Dorgenville%20is%20arduous.&ignoreAppId=340608909230211074&theme=dark)](https://discord.com/users/340608909230211074)
+<div style="text-align: center;">
+  <div style="display: inline-block; height: 100%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MarteenJevLsk&show_icons=true&theme=radical&locale=pt-br&layout=compact" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MarteenJevLsk&show_icons=true&locale=pt-br&layout=compact" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarteenJevLsk&show_icons=true&theme=radical&locale=pt-br&layout=compact" alt="MarteenJevLsk" style="height: 200px;" />
+    </picture>
+  </div>
 
-###  • Github Stats •
-![JevKnight's Stats](https://github-readme-stats.vercel.app/api?username=MarteenJevLsk&theme=onedark&show_icons=true&hide_border=true&count_private=true)
-![JevKnight's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarteenJevLsk&theme=onedark&hide_border=true)
-![JevKnight's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarteenJevLsk&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+  <div style="display: inline-block; height: 100%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MarteenJevLsk&show_icons=true&theme=radical&locale=pt-br" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MarteenJevLsk&show_icons=true&locale=pt-br" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartenJevLsk&show_icons=true&theme=radical&locale=pt-br" alt="MarteenJevLsk" style="height: 200px;" />
+    </picture>
+  </div>
+</div>
 
-<!-- ## • Últimos Projetos •
+<h2 align="center">Linguagens:</h2>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" alt="React"/>
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" alt="Javascript JS"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" alt="SaSS"/>
+      <br>SaSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" alt="Docker"/>
+      <br>Docker
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Github" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="Nginx" />
+      <br>Nginx
+    </td>
+    <td align="center" width="100">
+        <img src="https://mirror.math.princeton.edu/pub/php/images/ele-running.gif" width="100" height="65" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="100">
+        <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="100" height="65" alt="Laravel" />
+      <br>Laravel
+    </td>
+ </tr>
+</table>
+</div>
 
- 
-| Nome do Projeto        | Descrição                        | Iniciado? | Concluído? |
-| ------------ | -------------------------------- | ------------ | ------------ |
-| [Nome](Url)   | Desc. | sim/não         | sim/não          |
--->
-## • Linguagens •
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarteenJevLsk&repo=github-page-portfolio
+&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
 
-<ul>
-<li><img height="32px" width="32px" alt="HTML logo" src="https://bit.ly/3gP4Qgx"> <b>HTML</b></li>
-<li><img height="32px" width="32px" alt="CSS logo" src="https://bit.ly/37iML7j"> <b>CSS</b></li>
-<li><img height="32px" width="32px" alt="SASS logo" src="https://cutt.ly/AQuzRbx"> <b>SASS</b></li>
-<li><img height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY"> <b>Javascript</b></li>
-<li><img height="32px" width="32px" alt="Python logo" src="https://bit.ly/3nk4bGw"> <b>Python</b></li>
-<li><img height="32px" width="32px" alt="PHP logo" src="https://cutt.ly/YQukyil"> <b>PHP</b></li>
-<li><img height="32px" width="32px" alt="ZScript logo" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Circle_ZDoom_Logo.png"> <b>ZScript</b></li>
-<li><img height="32px" width="32px" alt="Laravel logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/75px-Laravel.svg.png?20190820171151"> <b>Laravel</b></li>
-</ul>
+<p align="center">
+<h2 align="center">Discord</h2>
 
-### • Ferramentas •
+<a align="center" href="https://discord.com/users/340608909230211074">
+<img align="center" src="https://lanyard.cnrad.dev/api/340608909230211074?bg=2B2B2B&borderRadius=&idleMessage=The%20road%20to%20Dorgenville%20is%20arduous.&ignoreAppId=340608909230211074&theme=dark" alt="Discord" />
+</a>
+</p>
 
-<ul>
-<li><img height="32px" width="32px" alt="Node.js logo" src="https://bit.ly/3rw9m8C"> <b>Node.js</b></li>
-<li><img height="32px" width="32px" alt="VS Сode logo" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png"> <b>VS Code</b></li>
-<li><img height="32px" width="32px" alt="Xampp logo" src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png"> <b>XAMPP</b></li>
-<li><img height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn"> <b>Git</b></li>
-<li><img height="32px" width="32px" alt="GitHub logo" src="https://cdn.freebiesupply.com/logos/large/2x/github-octocat-logo-png-transparent.png"> <b>Github</b></li>
-<li><img height="32px" width="32px" alt="ACC logo" src="https://static.doomworld.com/monthly_2017_03/avatar.png.109e43f9d1305aaec7a54e741526b9e1.png"> <b><a href="https://github.com/ZDoom/acc/releases">ACC</a></b></li>
-</ul>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
