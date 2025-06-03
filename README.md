@@ -75,7 +75,7 @@
       <br>PHP
     </td>
     <td align="center" width="100">
-        <img src="" width="100" height="65" alt="Laravel" />
+        <img src="https://raw.githubusercontent.com/MarteenJevLsk/MarteenJevLsk/f2db28d07dd3f2405256f19cc6b825ae8f23d8d0/workspace/blob/pickaxe/laravel.svg" width="100" height="65" alt="Laravel" />
       <br>Laravel
     </td>
  </tr>
