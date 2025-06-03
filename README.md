@@ -9,7 +9,7 @@
     <samp>
     Seja bem vindo.
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=900&size=12&duration=3000&pause=1000&color=97a4e2&center=true&width=410&height=45&lines=A+gente+percebe+que+a+%C3%BAnica+coisa+que+se+perde%2C+%C3%A9+tempo+mesmo.;Seu+valor+n%C3%A3o+depende+da+opni%C3%A3o+de+ningu%C3%A9m.;Um+peda%C3%A7o+de+mim+se+vai%2C+e+com+ele%2C+meus+erros.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=900&size=12&duration=3000&pause=1000&color=97a4e2&center=true&width=410&height=45&lines=A+%C3%BAnica+coisa+que+se+perde+para+sempre+%C3%A9+o+tempo.;Seu+valor+n%C3%A3o+depende+da+opni%C3%A3o+de+ningu%C3%A9m.;Um+peda%C3%A7o+de+mim+se+vai%2C+e+com+ele%2C+meus+erros.">
     </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
