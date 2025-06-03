@@ -71,7 +71,7 @@
       <br>Nginx
     </td>
     <td align="center" width="100">
-        <img src="https://i.imgur.com/1GzLpqX.gif" width="100" height="65" alt="PHP" />
+        <img src="https://i.imgur.com/1GzLpqX.gif" width="65" height="65" alt="PHP" />
       <br>PHP
     </td>
     <td align="center" width="100">
