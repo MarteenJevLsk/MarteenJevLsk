@@ -11,10 +11,11 @@
           fill: transparent;
         }
         60%, 90% {
-          fill: #FF2D20;
-          stroke: #FF2D20;
+          fill: white;
+          stroke: white;
         }
         100% {
+          /* Aqui ele volta para o estado final sólido */
           fill: transparent;
           stroke: transparent;
         }
@@ -22,17 +23,17 @@
 
       #laravel-path {
         fill: transparent;
-        stroke: #FF2D20;
-        stroke-width: 0.2px;
+        stroke: white;
+        stroke-width: 0.2px; /* Linha fina para o efeito de desenho */
         stroke-dasharray: 104.5;
         animation: laravel-draw-ani 8s linear infinite;
       }
     </style>
     
-    <!-- <linearGradient id="paint0_linear_302_4984" x1=".463" x2="24.463" y1="12" y2="12" gradientUnits="userSpaceOnUse">
+    <linearGradient id="paint0_linear_302_4984" x1=".463" x2="24.463" y1="12" y2="12" gradientUnits="userSpaceOnUse">
       <stop stop-color="#ED6D6B"></stop>
       <stop offset="1" stop-color="#F0B076"></stop>
-    </linearGradient> -->
+    </linearGradient>
   </defs>
 
   <rect width="24" height="24" x=".463" fill="url(#paint0_linear_302_4984)" rx="8"></rect>
