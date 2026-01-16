@@ -43,8 +43,36 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" alt="Javascript JS"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" alt="Typescript TS"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="100">
+        <img src="https://i.imgur.com/1GzLpqX.gif" width="65" height="65" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/MarteenJevLsk/MarteenJevLsk/800fbeebcda1ad860d3cce8a7f47a42f5b6c9345/workspace/blob/pickaxe/laravel.svg" width="65" height="65" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" alt="MySQL" />
       <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" alt="Docker"/>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="Nginx" />
+      <br>Nginx
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" alt="React"/>
@@ -59,42 +87,11 @@
       <br>REST
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" alt="Python"/>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" alt="Typescript TS"/>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" alt="Javascript JS"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" alt="SaSS"/>
       <br>SaSS
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" alt="Docker"/>
-      <br>Docker
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Github" />
-      <br>Github
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="Nginx" />
-      <br>Nginx
-    </td>
-    <td align="center" width="100">
-        <img src="https://i.imgur.com/1GzLpqX.gif" width="65" height="65" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/MarteenJevLsk/MarteenJevLsk/800fbeebcda1ad860d3cce8a7f47a42f5b6c9345/workspace/blob/pickaxe/laravel.svg" width="65" height="65" alt="Laravel" />
-      <br>Laravel
-    </td>
  </tr>
+  
 </table>
 </div>
 
