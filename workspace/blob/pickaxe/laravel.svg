@@ -15,7 +15,6 @@
           stroke: #FF2D20;
         }
         100% {
-          /* Aqui ele volta para o estado final sólido */
           fill: transparent;
           stroke: transparent;
         }
@@ -24,9 +23,9 @@
       #laravel-path {
         fill: transparent;
         stroke: #FF2D20;
-        stroke-width: 0.2px; /* Linha fina para o efeito de desenho */
+        stroke-width: 0.2px;
         stroke-dasharray: 104.5;
-        animation: laravel-draw-ani 5s linear infinite;
+        animation: laravel-draw-ani 8s linear infinite;
       }
     </style>
     
