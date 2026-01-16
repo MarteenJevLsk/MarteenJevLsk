@@ -40,8 +40,8 @@
           fill: transparent;
         }
         60%, 90% {
-          fill: white;
-          stroke: white;
+          fill: #f0513fff;
+          stroke: #f0513fff;
         }
         100% {
           fill: #CC6699;
@@ -50,7 +50,7 @@
       }
       #laravel-icon {
         fill: transparent;
-        stroke: white;
+        stroke: f0513fff;
         stroke-width: 0.5px;
         stroke-dasharray: 104.5;
         animation: laravel-icon-ani 5s linear infinite;
@@ -67,8 +67,8 @@
           fill: transparent;
         }
         60%, 90% {
-          fill: white;
-          stroke: white;
+          fill: #f0513fff;
+          stroke: #f0513fff;
         }
         100% {
           /* Aqui ele volta para o estado final sólido */
@@ -79,7 +79,7 @@
 
       #laravel-path {
         fill: transparent;
-        stroke: white;
+        stroke: #f0513fff;
         stroke-width: 0.2px; /* Linha fina para o efeito de desenho */
         stroke-dasharray: 104.5;
         animation: laravel-draw-ani 8s linear infinite;
