@@ -55,6 +55,18 @@
       <br>Redux
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="85" alt="API REST" />
+      <br>REST
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" alt="Typescript TS"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" alt="Javascript JS"/>
       <br>JavaScript
     </td>
@@ -79,7 +91,7 @@
       <br>PHP
     </td>
     <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/MarteenJevLsk/MarteenJevLsk/800fbeebcda1ad860d3cce8a7f47a42f5b6c9345/workspace/blob/pickaxe/laravel.svg" width="100" height="65" alt="Laravel" />
+        <img src="https://raw.githubusercontent.com/MarteenJevLsk/MarteenJevLsk/800fbeebcda1ad860d3cce8a7f47a42f5b6c9345/workspace/blob/pickaxe/laravel.svg" width="65" height="65" alt="Laravel" />
       <br>Laravel
     </td>
  </tr>
