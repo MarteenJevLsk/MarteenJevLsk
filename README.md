@@ -23,17 +23,17 @@
 <div style="text-align: center;">
   <div style="display: inline-block; height: 100%;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MarteenJevLsk&show_icons=true&theme=radical&locale=pt-br&layout=compact" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MarteenJevLsk&show_icons=true&locale=pt-br&layout=compact" />
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarteenJevLsk&show_icons=true&theme=radical&locale=pt-br&layout=compact" alt="MarteenJevLsk" style="height: 200px;" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=MarteenJevLsk&show_icons=true&theme=radical&locale=pt-br&layout=compact" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=MarteenJevLsk&show_icons=true&locale=pt-br&layout=compact" />
+      <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarteenJevLsk&show_icons=true&theme=radical&locale=pt-br&layout=compact" alt="MarteenJevLsk" style="height: 200px;" />
     </picture>
   </div>
 
   <div style="display: inline-block; height: 100%;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MarteenJevLsk&show_icons=true&theme=radical&locale=pt-br" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MarteenJevLsk&show_icons=true&locale=pt-br" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartenJevLsk&show_icons=true&theme=radical&locale=pt-br" alt="MarteenJevLsk" style="height: 200px;" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=MarteenJevLsk&show_icons=true&theme=radical&locale=pt-br" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=MarteenJevLsk&show_icons=true&locale=pt-br" />
+      <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MartenJevLsk&show_icons=true&theme=radical&locale=pt-br" alt="MarteenJevLsk" style="height: 200px;" />
     </picture>
   </div>
 </div>
