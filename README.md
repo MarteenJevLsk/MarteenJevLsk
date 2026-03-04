@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/be/82/9b/be829bcfc8fef59967c83a7e2201034c.jpg" width="128" heigth="128" style="border-radius: 60%;"><br>
+  <img src="https://avatars.githubusercontent.com/u/171823121?v=4" width="128" heigth="128" style="border-radius: 60%;"><br>
  </div>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=MarteenJevLsk&label=Profile%20views&color=blueviolet&style=flat" alt="JevMarteen" /> </p>
 
